@@ -1,6 +1,3 @@
-
-<p align="center">Ubuntu On Android [TERMUX]</br><b>
-
 ---
 ## Ubuntu on Termux Android
 
